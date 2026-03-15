@@ -7,10 +7,10 @@
   "in_radar": true,
   "expected_impact": "unknown",
   "status": "being-assessed",
-  "abstract": "",
-  "why_we_care": "",
-  "summary": "",
-  "description": "",
+  "abstract": "AGENTS.md is an emerging open standard for declaring AI agent capabilities, tools, and instructions in a structured markdown file at the root of a repository, enabling consistent agent discovery and interoperability across platforms.",
+  "why_we_care": "Standardizing how AI agents declare themselves enables our team to build composable, discoverable agent workflows. As we invest in custom agents and MCP servers, having a common metadata format reduces integration friction and makes our agent ecosystem more maintainable. This directly impacts our OLAF skills and agent architecture.",
+  "summary": "AGENTS.md proposes a standardized way to describe AI agents in repositories — similar to how README.md describes a project for humans, AGENTS.md describes agent capabilities for other agents and orchestrators.",
+  "description": "## Overview\\n\\nAGENTS.md is a proposed open standard (backed by the Linux Foundation) for declaring AI agent metadata in a structured markdown file placed at the root of a repository. It defines agent capabilities, available tools, required permissions, and behavioral instructions in a format that is both human-readable and machine-parseable.\\n\\n## Key Features\\n\\n- **Declarative agent metadata**: Name, description, version, capabilities\\n- **Tool declarations**: What tools the agent can use, with input/output schemas\\n- **Instruction blocks**: Behavioral guidelines and constraints\\n- **Interoperability**: Enables agent-to-agent discovery and orchestration\\n- **Platform-agnostic**: Works across VS Code, GitHub Copilot, and other agent hosts\\n\\n## Current Status\\n\\nEarly-stage proposal gaining traction in the GitHub/VS Code ecosystem. Several projects have started adopting the pattern informally.",
   "related_intells": [],
   "linked_issues": [],
   "linked_discussions": [],
@@ -29,7 +29,7 @@
     "documentation"
   ],
   "created_at": "2026-03-15T21:41:49.454Z",
-  "updated_at": "2026-03-15T21:41:49.454Z",
+  "updated_at": "2026-03-15T22:02:57.413Z",
   "created_by": null,
-  "updated_by": null
+  "updated_by": "copilot"
 }

@@ -2,7 +2,7 @@
   "slug": "ai-dlc-ai-driven-development-lifecycle",
   "title": "AI-DLC — AI-Driven Development Life Cycle",
   "type": "process",
-  "ring": "assess",
+  "ring": "hold",
   "in_radar": true,
   "status": "being-assessed",
   "expected_impact": "high",

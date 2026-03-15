@@ -50,6 +50,32 @@
     "created_by": "ppaccaud",
     "updated_by": "ppaccaud",
     "source_hub": null
+  },
+  {
+    "slug": "ai-dlc-ai-driven-development-lifecycle",
+    "title": "AI-DLC — AI-Driven Development Life Cycle",
+    "type": "process",
+    "ring": "assess",
+    "in_radar": true,
+    "status": "being-assessed",
+    "expected_impact": "high",
+    "abstract": "AI-DLC is an AI-centric methodology by AWS that reimagines the entire software development lifecycle. Rather than retrofitting AI as an assistant into existing SDLC processes, AI-DLC positions AI as a central collaborator throughout three phases — Inception (requirements via 'Mob Elaboration'), Construction (architecture and code via 'Mob Construction'), and Operations (deployment with oversight). It replaces sprints with 'bolts' (hours/days), epics with 'units of work', and emphasises human-in-the-loop oversight at every step.",
+    "tags": [
+      "genai",
+      "aws",
+      "ai-dlc",
+      "sdlc",
+      "methodology",
+      "process",
+      "development-lifecycle",
+      "human-in-the-loop",
+      "kiro",
+      "amazon-q-developer"
+    ],
+    "created_at": "2026-03-15T20:00:00.000Z",
+    "updated_at": "2026-03-15T20:00:00.000Z",
+    "created_by": "ppaccaud",
+    "updated_by": "ppaccaud",
+    "source_hub": null
   }
-]
 ]

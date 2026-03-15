@@ -1,0 +1,25 @@
+{
+  "date": "2026-03-15",
+  "total": 1,
+  "by_phase": {
+    "technology": 1
+  },
+  "by_status": {
+    "active": 1,
+    "delivered": 0,
+    "parked": 0
+  },
+  "by_impact": {
+    "high": 1
+  },
+  "contributors": 1,
+  "intells": [
+    {
+      "slug": "agent-interoperability-protocols-a2a-acp",
+      "type": "technology",
+      "ring": "assess",
+      "status": "being-assessed",
+      "expected_impact": "high"
+    }
+  ]
+}

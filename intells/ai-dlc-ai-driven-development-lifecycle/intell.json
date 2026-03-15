@@ -1,0 +1,48 @@
+{
+  "slug": "ai-dlc-ai-driven-development-lifecycle",
+  "title": "AI-DLC — AI-Driven Development Life Cycle",
+  "type": "process",
+  "ring": "assess",
+  "in_radar": true,
+  "status": "being-assessed",
+  "expected_impact": "high",
+  "abstract": "AI-DLC is an AI-centric methodology by AWS that reimagines the entire software development lifecycle. Rather than retrofitting AI as an assistant into existing SDLC processes, AI-DLC positions AI as a central collaborator throughout three phases — Inception (requirements via 'Mob Elaboration'), Construction (architecture and code via 'Mob Construction'), and Operations (deployment with oversight). It replaces sprints with 'bolts' (hours/days), epics with 'units of work', and emphasises human-in-the-loop oversight at every step.",
+  "why_we_care": "AWS argues that simply adding AI copilots to existing SDLC rituals produces suboptimal results — the real gains come from restructuring the entire lifecycle around AI. This is a strong claim that challenges how we currently integrate AI coding assistants. If AWS is right, organisations that only bolt AI onto their current processes will miss the transformative productivity leap. The methodology is open-source (MIT-0), supported by multiple coding agents (Kiro, Q Developer, Cursor, Claude Code, Copilot), and backed by a GitHub repo (awslabs/aidlc-workflows) with 700+ stars. Worth assessing whether the 'Mob Elaboration' and 'Mob Construction' rituals genuinely outperform our current AI-assisted workflow.",
+  "tags": [
+    "genai",
+    "aws",
+    "ai-dlc",
+    "sdlc",
+    "methodology",
+    "process",
+    "development-lifecycle",
+    "human-in-the-loop",
+    "kiro",
+    "amazon-q-developer"
+  ],
+  "linked_issues": [],
+  "linked_discussions": [],
+  "related_intells": [],
+  "key_links": [
+    {
+      "label": "AWS DevOps Blog — AI-Driven Development Life Cycle",
+      "url": "https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/"
+    },
+    {
+      "label": "GitHub — awslabs/aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows"
+    },
+    {
+      "label": "AI-DLC Method Definition Paper",
+      "url": "https://prod.d13rzhkk8cj2z0.amplifyapp.com/"
+    },
+    {
+      "label": "AWS re:Invent 2025 — Introducing AI-DLC (DVT214)",
+      "url": "https://www.youtube.com/watch?v=DVT214"
+    }
+  ],
+  "created_at": "2026-03-15T20:00:00.000Z",
+  "updated_at": "2026-03-15T20:00:00.000Z",
+  "created_by": "ppaccaud",
+  "updated_by": "ppaccaud"
+}

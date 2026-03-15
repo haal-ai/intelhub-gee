@@ -24,5 +24,32 @@
     "created_by": "ppaccaud",
     "updated_by": "ppaccaud",
     "source_hub": null
+  },
+  {
+    "slug": "ag-ui-agent-user-interaction-protocol",
+    "title": "AG-UI — Agent-User Interaction Protocol",
+    "type": "technology",
+    "ring": "assess",
+    "in_radar": true,
+    "status": "being-assessed",
+    "expected_impact": "high",
+    "abstract": "AG-UI (Agent-User Interaction Protocol) by CopilotKit defines how AI agents stream rich output to frontend applications — streaming chat, generative UI, shared state, human-in-the-loop interactions, and tool rendering. It complements MCP (agent↔tools) and A2A (agent↔agent) as the agent↔user layer.",
+    "tags": [
+      "genai",
+      "ag-ui",
+      "copilotkit",
+      "protocol",
+      "agent-ui",
+      "streaming",
+      "generative-ui",
+      "human-in-the-loop",
+      "frontend"
+    ],
+    "created_at": "2026-03-15T19:00:00.000Z",
+    "updated_at": "2026-03-15T19:00:00.000Z",
+    "created_by": "ppaccaud",
+    "updated_by": "ppaccaud",
+    "source_hub": null
   }
+]
 ]
